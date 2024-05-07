@@ -80,3 +80,6 @@ functions-framework --target hello_world --debug
 Then, in a web browser, navigate to `http://localhost:port/` to see the output.
 Each time you refresh the page, is like sending a new request to the server.
 <!-- #endregion -->
+Further reading:
+- [`functions-framework` package](https://github.com/GoogleCloudPlatform/functions-framework-python)
+- [`flask.Request` class](https://flask.palletsprojects.com/en/3.0.x/api/#incoming-request-data)
